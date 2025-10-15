@@ -1,0 +1,5 @@
+/licensing/revocations.json
+  Cache-Control: no-store, must-revalidate
+
+/licensing/lease/*
+  Cache-Control: max-age=60, must-revalidate
