@@ -1,0 +1,11 @@
+﻿{
+  "keys": [
+    {
+      "kty": "EC",
+      "crv": "P-256",
+      "x": "DTSIePEwblTFk4aQkhQ9ON5btDmhNt8CXU8p5hJwHD8",
+      "y": "MDccPJpT5WcrtMvNeI-Q_L1h6hn2uWpINS2iiiX9_IQ",
+      "kid": "lugic-v1-20251107032116"
+    }
+  ]
+}
